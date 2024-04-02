@@ -1,4 +1,3 @@
-# Oi, eu sou o Ramon, Desenvolvedor Full Stack, entusiasta da programação e tecnologia.
  <div>
    <a href="https://github.com/carlosramonDev">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosramonDev&layout=compact&langs_count=6&theme=tokyonight"/>
